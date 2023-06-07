@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cats-species/static/css/main.4da377fa.css",
+    "main.js": "/cats-species/static/js/main.b505bf6b.js",
+    "static/media/logo.svg": "/cats-species/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cats-species/index.html",
+    "main.4da377fa.css.map": "/cats-species/static/css/main.4da377fa.css.map",
+    "main.b505bf6b.js.map": "/cats-species/static/js/main.b505bf6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4da377fa.css",
+    "static/js/main.b505bf6b.js"
+  ]
+}
